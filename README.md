@@ -1,2 +1,3 @@
-# challenges-htb
-Repository for hackthebox challenges and machines.
+# Hackthebox Challenges/Boxes writeups.
+
+Repository that contains solving challenges and hackthebox machines.
