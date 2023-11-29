@@ -51,7 +51,7 @@
 
   Uploading our web server again and calling our template through the application.
 
-  ![image-20231129124208821](/Users/vnunes/Library/Application Support/typora-user-images/image-20231129124208821.png)
+  ![id](static/id.png)
 
   Pwned!!
 
