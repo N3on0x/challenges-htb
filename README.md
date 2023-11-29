@@ -1,3 +1,3 @@
-# Hackthebox Challenges/Boxes writeups.
+# Hackthebox Challenges writeups.
 
-Repository that contains solving challenges and hackthebox machines.
+Repository that contains solving hackthebox challenges.
